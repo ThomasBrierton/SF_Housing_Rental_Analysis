@@ -38,6 +38,8 @@ Step 5: Create an interactive geographical map for neighborhoods throughout San 
 
 ![](https://github.com/ThomasBrierton/SF_Housing_Rental_Analysis/blob/main/Images/Screen%20Shot%202022-02-13%20at%208.22.25%20PM.png)
 
+![](https://github.com/ThomasBrierton/SF_Housing_Rental_Analysis/blob/main/Images/Screen%20Shot%202022-02-13%20at%208.30.13%20PM.png)
+
 ---
 
 ## Contributors
