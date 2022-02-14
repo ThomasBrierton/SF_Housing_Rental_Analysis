@@ -36,7 +36,11 @@ Step 5: Create an interactive geographical map for neighborhoods throughout San 
 
 ## Analysis
 
+This analysis provided valuable insight in determining if a one-click buy-to-rent strategy is a good investment. The following line plot shows the steady upward trend in gross rental income compared to the sales price per squre foot.
+
 ![](https://github.com/ThomasBrierton/SF_Housing_Rental_Analysis/blob/main/Images/Screen%20Shot%202022-02-13%20at%208.22.25%20PM.png)
+
+The following plot shows a geospatial view of neighborhoods with high potential for investment. This is seen in areas with a low sales price and a high gross rental income. 
 
 ![](https://github.com/ThomasBrierton/SF_Housing_Rental_Analysis/blob/main/Images/Screen%20Shot%202022-02-13%20at%208.30.13%20PM.png)
 
