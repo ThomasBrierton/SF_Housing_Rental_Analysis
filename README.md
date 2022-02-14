@@ -36,7 +36,7 @@ Step 5: Create an interactive geographical map for neighborhoods throughout San 
 
 ## Analysis
 
-
+![](/Users/thomasbrierton/Desktop/SF_Housing_Rental_Analysis/Images/avg-sale-px-sq-foot-gross-rent.png)
 
 ---
 
